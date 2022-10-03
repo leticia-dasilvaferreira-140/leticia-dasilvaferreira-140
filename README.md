@@ -1,6 +1,7 @@
 ###  Sobre mim
-
-
+ OLÁ MEU NOME É LETÍCIA
+ Estou interessada em arender a programar novas linguagens
+Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrarch
 **leticia-dasilvaferreira-140/leticia-dasilvaferreira-140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
