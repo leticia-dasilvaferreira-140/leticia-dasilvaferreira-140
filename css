@@ -1,0 +1,135 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: linear-gradient(
+      180deg,
+      rgba(0, 17, 104, 1) 15.625%,
+      rgba(0, 41, 255, 0) 86.97916865348816%
+    ),
+    linear-gradient(
+      180deg,
+      rgba(0, 41, 255, 0) 21.875%,
+      rgba(0, 17, 104, 1) 95.3125%
+    );
+  width: 1214px;
+  height: 864px;
+  position: relative;
+  overflow: hidden;
+}
+.image-1 {
+  border-radius: 176px;
+  width: 231px;
+  height: 232px;
+  position: absolute;
+  left: 29px;
+  top: 28px;
+}
+.transformando-seu-sonho-em-realidade {
+  color: #ffffff;
+  text-align: left;
+  font: 400 48px "Inter", sans-serif;
+  position: absolute;
+  left: 382px;
+  top: 65px;
+  width: 738px;
+}
+.constru-es-e-reformas-em-geral {
+  color: #ffffff;
+  text-align: left;
+  font: 400 36px "Inter", sans-serif;
+  position: absolute;
+  left: 338px;
+  top: 281px;
+}
+.image-4 {
+  border-radius: 131px;
+  width: 203px;
+  height: 202px;
+  position: absolute;
+  left: 159px;
+  top: 364px;
+}
+.image-2 {
+  border-radius: 112.5px;
+  width: 132px;
+  height: 125px;
+  position: absolute;
+  left: 918px;
+  top: 728px;
+}
+.image-3 {
+  border-radius: 268.5px;
+  width: 132px;
+  height: 125px;
+  position: absolute;
+  left: 1057px;
+  top: 728px;
+}
+.patrocinio {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 904px;
+  top: 699px;
+}
+.image-5 {
+  border-radius: 101px;
+  width: 203px;
+  height: 202px;
+  position: absolute;
+  left: 404px;
+  top: 364px;
+}
+.image-6 {
+  border-radius: 128px;
+  width: 203px;
+  height: 202px;
+  position: absolute;
+  left: 649px;
+  top: 364px;
+}
+.image-7 {
+  border-radius: 101px;
+  width: 203px;
+  height: 202px;
+  position: absolute;
+  left: 894px;
+  top: 364px;
+}
+.telefone {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 728px;
+}
+._44-99770-5725 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 149px;
+  top: 728px;
+}
+.claudiolopesconstrutor {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 169px;
+  top: 805px;
+  width: 293px;
+  height: 23px;
+}
+.rede-social {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 12px;
+  top: 805px;
+}
